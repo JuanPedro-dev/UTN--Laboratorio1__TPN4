@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1651015785 source:g:\otros ordenadores\mi portátil\carpeta drive\utn\1º cuatrimestre\programacion\5. unidad 5 - arreglos\tpn4 - arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"../Librerias/pila.h"
+	<string.h>
+
+1649856547 source:g:\otros ordenadores\mi portátil\carpeta drive\utn\1º cuatrimestre\programacion\5. unidad 5 - arreglos\librerias\pila.c
+	"pila.h"
+
+1490112217 g:\otros ordenadores\mi portátil\carpeta drive\utn\1º cuatrimestre\programacion\5. unidad 5 - arreglos\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1649856547 source:c:\users\equipo\desktop\carpeta drive\utn\1º cuatrimestre\programacion\5. unidad 5 - arreglos\librerias\pila.c
+	"pila.h"
+
+1490112217 c:\users\equipo\desktop\carpeta drive\utn\1º cuatrimestre\programacion\5. unidad 5 - arreglos\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1650496996 source:c:\users\equipo\desktop\carpeta drive\utn\1º cuatrimestre\programacion\5. unidad 5 - arreglos\tpn4 - arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"../Librerias/pila.h"
+
+1649856547 source:c:\users\equipo\desktop\carpeta drive\utn\1º cuatrimestre\programacion\practica 1 examen\tpn 4 - arrays\librerias\pila.c
+	"pila.h"
+
+1490112217 c:\users\equipo\desktop\carpeta drive\utn\1º cuatrimestre\programacion\practica 1 examen\tpn 4 - arrays\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1651015707 source:c:\users\equipo\desktop\carpeta drive\utn\1º cuatrimestre\programacion\practica 1 examen\tpn 4 - arrays\tpn4 - arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"../Librerias/pila.h"
+	<string.h>
+
+1649856547 source:g:\otros ordenadores\mi portátil\carpeta drive\utn\1º cuatrimestre\programacion\practica 1 examen\tpn 4 - arrays\librerias\pila.c
+	"pila.h"
+
+1490112217 g:\otros ordenadores\mi portátil\carpeta drive\utn\1º cuatrimestre\programacion\practica 1 examen\tpn 4 - arrays\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1652746171 source:g:\otros ordenadores\mi portátil\carpeta drive\utn\1º cuatrimestre\programacion\practica 1 examen\tpn 4 - arrays\tpn4 - arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"../Librerias/pila.h"
+	<string.h>
+
